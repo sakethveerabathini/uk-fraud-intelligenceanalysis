@@ -13,7 +13,7 @@ it in a SQLite database, explores it with SQL queries, builds
 machine learning models to classify fraud risk, and visualises 
 all findings in an interactive 3-page Power BI dashboard.
 
-## 💡 Key Findings
+##  Key Findings
 
 -  **Remote Purchase CNP fraud** was the largest fraud type 
   peaking at **£500.7M losses in 2017** before declining to 
