@@ -1,0 +1,11 @@
+access_method,pct_all_fraud,pct_bank_fraud,pct_consumer_fraud,pct_cyber_fraud
+Database breach,11.87,12.15,4.83,13.01
+Tricked willingly,11.52,8.27,18.04,16.86
+Fake website,7.68,4.85,18.61,14.59
+Accessed bank account,6.32,10.87,1.66,6.55
+Social media access,6.02,3.1,3.32,6.03
+Online shopping account,5.42,6.65,7.33,8.61
+Email account,3.98,1.88,1.9,3.74
+Phone call deception,3.76,5.43,2.11,4.22
+Data from previous breach,3.45,4.12,2.87,5.11
+Other method,39.97,47.96,39.33,21.28

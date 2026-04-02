@@ -1,0 +1,9 @@
+year,fraud_type,gross_losses_millions,cases,reimbursed_millions
+2022,Purchase Scam,48.1,77030,24.2
+2022,Investment Scam,113.2,16765,28.3
+2022,Romance Scam,31.3,8659,7.4
+2022,Advance Fee Scam,14.7,28712,4.6
+2022,Invoice & Mandate,49.9,4994,20.6
+2022,CEO Scam,10.5,1583,2.8
+2022,Impersonation - Police/Bank,177.6,43307,105.7
+2022,Impersonation - Other,39.9,26322,13.6

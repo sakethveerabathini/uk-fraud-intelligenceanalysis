@@ -1,0 +1,21 @@
+year,fraud_type,gross_losses_millions,cases,change_pct
+2013,Remote Purchase CNP,301.0,951998,0.0
+2014,Remote Purchase CNP,331.5,1019146,0.07
+2015,Remote Purchase CNP,398.2,1113084,0.09
+2016,Remote Purchase CNP,432.3,1437832,0.29
+2017,Remote Purchase CNP,500.7,1398153,-0.03
+2018,Remote Purchase CNP,506.4,2050275,0.47
+2019,Remote Purchase CNP,470.2,2157418,0.05
+2020,Remote Purchase CNP,376.0,2417866,0.12
+2021,Remote Purchase CNP,583.8,2423826,0.0
+2022,Remote Purchase CNP,395.7,2221045,-0.08
+2013,Card ID Theft,36.7,30718,0.26
+2014,Card ID Theft,32.0,26542,-0.14
+2015,Card ID Theft,40.6,33566,0.26
+2016,Card ID Theft,42.6,31756,-0.05
+2017,Card ID Theft,31.5,29156,-0.08
+2018,Card ID Theft,50.1,63791,1.19
+2019,Card ID Theft,40.1,54165,-0.15
+2020,Card ID Theft,31.7,34545,-0.36
+2021,Card ID Theft,36.6,40026,0.16
+2022,Card ID Theft,72.1,82064,1.05
