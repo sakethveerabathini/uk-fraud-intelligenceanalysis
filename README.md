@@ -151,5 +151,5 @@ pip install -r requirements.txt
 ##  Author
 
 **Saketh Veerabathini**  
-MSc Business Analytics — Coventry University  
+MSc Business Analytics -  Coventry University  
 [LinkedIn](https://www.linkedin.com/in/veerabathini-saketh) | [GitHub](https://github.com/sakethveerabathini)
