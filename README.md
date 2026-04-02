@@ -111,9 +111,9 @@ number of cases and year-on-year change percentage.
 | Random Forest | 75% | 45% | 24% |
 
 ### Key Findings
-- Logistic Regression scored 100% on a single split — identified 
+- Logistic Regression scored 100% on a single split identified 
   as **overfitting** on the small 20-row dataset
-- Cross validation gave a more honest picture — 65% average 
+- Cross validation gave a more honest picture  65% average 
   across 5 folds
 - **Chosen model: Logistic Regression**  more consistent with 
   lower variance (12% std) vs Random Forest (24% std)
